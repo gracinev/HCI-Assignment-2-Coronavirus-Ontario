@@ -15,6 +15,6 @@ Five new desirable funcationalities that I have not seen before in any other COV
   1. Ability to use virtual reality to check if someone has coronavirus symptoms by using their phone camera 
   2. Local or virtual volunteer opportunities relating or unrelated to COVID-19 (ex. assisting in temporary COVID-19 shelters)
   3. Ability to search for Coronavirus cases specially in ones city or region
-  4. Ability to track what phase of reopening your city and or regio
+  4. Ability to track what phase of reopening your city and or region is in
   5. Ability for a user to record where they have been in the past two weeks. This would be useful in the event of an outbreak in a business so that the user can track if and when they have been to that business 
   6.. Given that technology in phones have advanced, ability for users to check ones temperature through their phone  
